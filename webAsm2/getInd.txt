@@ -1,0 +1,25 @@
+glob0 = 66864
+var4 = glob0-16=66848
+
+i32.const 4
+local.set $var6 = 4
+local.get $var4 = 66848
+i32.load offset=8
+local.set $var7 = INDEXOFCHAR
+i32.const 5
+local.set $var8 = 5
+local.get $var7
+local.get $var8
+i32.rem_s INDEX MOD 5
+local.set $var9
+local.get $var6
+local.get $var9
+i32.sub
+local.set $var10
+
+key = [\f1\a7\f0\07\ed]
+keyIndex = 4 - (i % 5)
+
+
+i - n -> 6e
+F - A -> 41

@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Mar 16 20:17:16 2021
+Invocation: foremost -i 4_c.jpg 
+Output directory: /home/ksuresh/picoCTF2021/dolls/output/zip/00000532/base_images/output/zip/base_images/output/zip/base_images/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 4_c.jpg
+Start: Tue Mar 16 20:17:16 2021
+Length: 77 KB (79806 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000155.zip 	      229 B 	      79578 	 
+1:	00000000.png 	      77 KB 	          0 	  (320 x 768)
+Finish: Tue Mar 16 20:17:16 2021
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Mar 16 20:17:16 2021

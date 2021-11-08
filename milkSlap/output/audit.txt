@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar 17 15:44:01 2021
+Invocation: foremost -i concat_v.png 
+Output directory: /home/ksuresh/picoCTF2021/milkSlap/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: concat_v.png
+Start: Wed Mar 17 15:44:01 2021
+Length: 17 MB (18095920 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Wed Mar 17 15:44:01 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar 17 15:44:01 2021
